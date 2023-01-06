@@ -5,14 +5,5 @@ Perintah Enkrip Dan Dekrip di CMD :
 
 
 
-Plainteks :
-![gambar](https://user-images.githubusercontent.com/121703984/210905655-dd02f820-2c8a-43d1-a754-2f97dcb8153b.png)
+Plainteks :![gambar](https://user-images.githubusercontent.com/121703984/210905833-0e938efe-83a9-4819-9c24-9a1fb56d97ce.png)
 
-
-Setelah Di Enkrip :
-![gambar](https://user-images.githubusercontent.com/121703984/210905683-80aaa419-d6f3-4c4a-813b-3c8bdddfb64d.png)
-
-
-
-Hasil Dekrip :
-![gambar](https://user-images.githubusercontent.com/121703984/210905697-7637e5d8-f202-4633-89d4-927bf3e00d71.png)
